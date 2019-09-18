@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sms-data-helper/static/css/main.34ddbca1.chunk.css",
+    "main.js": "/sms-data-helper/static/js/main.f58275c8.chunk.js",
+    "main.js.map": "/sms-data-helper/static/js/main.f58275c8.chunk.js.map",
+    "runtime~main.js": "/sms-data-helper/static/js/runtime~main.b9003115.js",
+    "runtime~main.js.map": "/sms-data-helper/static/js/runtime~main.b9003115.js.map",
+    "static/js/2.8d96827a.chunk.js": "/sms-data-helper/static/js/2.8d96827a.chunk.js",
+    "static/js/2.8d96827a.chunk.js.map": "/sms-data-helper/static/js/2.8d96827a.chunk.js.map",
+    "index.html": "/sms-data-helper/index.html",
+    "precache-manifest.9cb80389b93cd7aedfbfd0fbc4237c08.js": "/sms-data-helper/precache-manifest.9cb80389b93cd7aedfbfd0fbc4237c08.js",
+    "service-worker.js": "/sms-data-helper/service-worker.js",
+    "static/css/main.34ddbca1.chunk.css.map": "/sms-data-helper/static/css/main.34ddbca1.chunk.css.map"
+  }
+}
