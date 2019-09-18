@@ -1,0 +1,8 @@
+export const globeNumber = 8080;
+export const globeKeywords = {
+  FIFTEEN_DAYS_DATA: "GOSURFBE34",
+  ONE_GB_DATA: "GOTSCOMBOKEA37",
+  GO_SAKTO_STATUS: "GoSAKTO STATUS",
+  BALANCE: "BAL",
+  REWARD_STATUS: "REWARD STATUS"
+};
