@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e14f3f6deeecc43d7471fe7fb9bd6e9b",
+    "revision": "f38f3d5097f76b05c58f2ec09fca6aa8",
     "url": "/sms-data-helper/index.html"
   },
   {
