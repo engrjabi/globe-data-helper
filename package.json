@@ -5,6 +5,7 @@
   "homepage": "https://gdh.engrjabi.win/",
   "dependencies": {
     "@material-ui/core": "^4.4.2",
+    "mobile-detect": "1.4.3",
     "prettier": "^1.18.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
