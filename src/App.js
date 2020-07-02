@@ -51,6 +51,24 @@ function App() {
       </AvatarLink>
 
       <AvatarLink
+        href={linkGenerator(globeNumber, globeKeywords.GO_QUARANTINE_EDITION_5GB)}
+        style={{
+          backgroundColor: deepOrange[400]
+        }}
+      >
+        5GB
+      </AvatarLink>
+
+      <AvatarLink
+        href={linkGenerator(globeNumber, globeKeywords.GO_QUARANTINE_EDITION_8GB)}
+        style={{
+          backgroundColor: deepOrange[300]
+        }}
+      >
+        8GB
+      </AvatarLink>
+
+      <AvatarLink
         href={linkGenerator(globeNumber, globeKeywords.GO_SAKTO_STATUS)}
         style={{
           backgroundColor: deepPurple[500]
